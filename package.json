@@ -1,0 +1,21 @@
+{
+  "name": "peerceptiv-assignment-7",
+  "version": "1.0.0",
+  "description": "Assignment 7",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "node --test",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/iltStudent08/peerceptiv-assignment-7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
