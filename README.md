@@ -71,3 +71,8 @@ Base path: `/api/recipes`
 ```bash
 npm test
 ```
+
+## AI Usage
+
+I used copilot agent to practice using agentic workers to create and do most things in this app.  It was really speedy to use and was a big help since I have been very busy lately and haven't had much time to sink into this particular task.
+
